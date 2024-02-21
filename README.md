@@ -29,7 +29,15 @@ pip install gradio
 
 * This app only support pdf file format for this app.
 
-![example1](images/screenshot1.png)
-![example12](images/screenshot2.png)
+example video
+
+![example1](video/mlx-rag-gradio.mp4)
+
+
+example screenshot
+
+![example2](images/screenshot1.png)
+![example3](images/screenshot2.png)
+
 
 
